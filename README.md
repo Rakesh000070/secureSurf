@@ -33,3 +33,6 @@ A sleek and smart web application that helps users identify potentially phishing
 ---
 
 ## 📂 Folder Structure
+
+![image](https://github.com/user-attachments/assets/84aecc9c-407f-4ff2-aa39-6dff67952c2c)
+
