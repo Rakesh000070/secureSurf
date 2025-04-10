@@ -19,7 +19,7 @@ A sleek and smart web application that helps users identify potentially phishing
 
 ## 📸 Demo
 
-> _Live demo coming soon..._ https://securesurf9.netlify.app/
+> _Live demo ..._ https://securesurf9.netlify.app/
 
 ---
 
